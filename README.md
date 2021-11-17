@@ -34,4 +34,4 @@ Mes stats GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierroootel&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pierroootel&theme=highconstrast)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PierroootEL&theme=highconstrast)](https://github.com/anuraghazra/github-readme-stats)
