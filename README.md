@@ -26,7 +26,7 @@ Mes Languages
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="C Logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="C Logo" width="50" height="50" />
----
+
 Mes IDE
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="C Logo" width="50" height="50" /> 
