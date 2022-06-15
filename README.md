@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 ![banniere](https://thumbs.gfycat.com/BeautifulWearyCoelacanth-size_restricted.gif)
 ---
-Bienvenue sur mon profil Github
+Bienvenue sur mon Github
+Je dévellope différents projets pour moi que je poste ici :)
 ---
 Mes Languages
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="C Logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="C Logo" width="50" height="50" />
 ---
