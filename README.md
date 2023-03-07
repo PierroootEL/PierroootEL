@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![banniere](https://thumbs.gfycat.com/BeautifulWearyCoelacanth-size_restricted.gif)
+<!-- ![banniere](https://thumbs.gfycat.com/BeautifulWearyCoelacanth-size_restricted.gif) -->
 ---
 # Bienvenue sur mon Github
 ## Je dévellope différents projets pour moi que je poste ici :)
