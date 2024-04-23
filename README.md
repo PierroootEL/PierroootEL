@@ -2,7 +2,7 @@
 
 ---
 # Bienvenue sur mon Github
-## Je dévellope différents projets pour moi que je poste ici :)
+## Je développe différents projets pour moi que je poste ici :)
 ---
 
 <!-- ### Mes Languages
